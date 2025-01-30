@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6254003221610759993}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41,7 +41,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2367709948491016276}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 4.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7289545493942107541}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 8.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -104,7 +104,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3643642142213479331}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136,7 +136,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5909591114892852887}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 1 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -168,7 +168,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6721496617656963345}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -200,7 +200,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4908120515727663583}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 11.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -232,7 +232,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1166499576060205862}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -264,7 +264,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7110744469036789527}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8831026551285095456}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 3 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,7 +328,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 315511590426856358}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -360,7 +360,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3070924367966849357}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 6 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -391,7 +391,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8041477490963358926}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 1.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -422,7 +422,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3762401466236478739}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "Ca\xF1on mid"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -454,7 +454,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8460205794567401604}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 8.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -486,7 +486,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1111943308966925047}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 6.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -518,7 +518,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3148318140262014497}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 12.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -550,7 +550,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6056764997377723365}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -581,7 +581,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1855629326293274522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -613,7 +613,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 51509368559893317}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 8 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -644,7 +644,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3725393332866123419}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 3.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -675,7 +675,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 872544503031443922}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 3.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -706,7 +706,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5640684575919772159}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 2 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -737,7 +737,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 305118490037551840}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -769,7 +769,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7718950484779106791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -801,7 +801,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3232659691424294892}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -833,7 +833,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5355474344804349792}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -865,7 +865,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8855939822910233215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -896,7 +896,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5849080388287370548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 11.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -927,7 +927,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2190716221702870441}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: "Ca\xF1on mid_end"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -958,7 +958,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 455773358053693183}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 4.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -990,7 +990,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4730661998074988506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 7.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1022,7 +1022,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1399216188246010891}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 3.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1054,7 +1054,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4423043399728558048}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1085,7 +1085,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4816295829745596417}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 7.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1116,7 +1116,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2053010695389739962}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 7 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1148,7 +1148,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8795064464296994583}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1181,7 +1181,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5069997521256520381}
   - component: {fileID: 6810028161279905450}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Droide_LOD001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1197,7 +1197,7 @@ Transform:
   m_GameObject: {fileID: 2727252398729184262}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalPosition: {x: -0, y: -11.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1353,7 +1353,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4858842355531049289}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 4.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1385,7 +1385,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3781846865028965989}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1417,7 +1417,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7031929151928412273}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 7.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1449,7 +1449,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3173838570966838923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 10 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1481,7 +1481,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 534172814419945147}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1513,7 +1513,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4875330133526194494}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 12 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1544,7 +1544,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 295692532722366729}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 5 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1576,7 +1576,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 343092903274397254}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1608,7 +1608,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 505461777003777827}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1640,7 +1640,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3583791040784913913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1672,7 +1672,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7548004562014117602}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 6.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1704,7 +1704,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5156805416902603242}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 2 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1736,7 +1736,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4744259182243833039}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 2.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1767,7 +1767,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8023961589706936561}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1799,7 +1799,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3486312143126001084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 4.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1830,7 +1830,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1222919320125571754}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 7 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1861,7 +1861,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6284267589409640048}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1894,7 +1894,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3885273092445176653}
   - component: {fileID: 2833000671392292506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Droide_LOD000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2066,7 +2066,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2811921787429725137}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2098,7 +2098,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8473292087706410692}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: UP Centro_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2129,7 +2129,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8024297163170017109}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 3.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2161,7 +2161,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7895164904362492181}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 12.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2193,7 +2193,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6835210179801945115}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 9 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2224,7 +2224,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 65630776362338409}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 5.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2256,7 +2256,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7186721576411907236}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 4 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2287,7 +2287,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4352509331843810017}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 4.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2319,7 +2319,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2638129896757700072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2351,7 +2351,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2801858381791027576}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 3.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2383,7 +2383,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8723039843130765123}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: UP Centro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2415,7 +2415,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5041296536377906318}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2446,7 +2446,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8882398156959435589}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 5.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2477,7 +2477,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8457245844260225724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2508,7 +2508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6900623185625478547}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2541,7 +2541,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2545937893355261891}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 9.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2573,7 +2573,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4341278896562560804}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 1.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2605,7 +2605,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8482385846030307791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 12 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2637,7 +2637,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2989271424523441965}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2669,7 +2669,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 681764959603205409}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 4.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2700,7 +2700,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1749480866187872798}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2733,7 +2733,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2022944937038333083}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Mid Centro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2784,7 +2784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7961998543287668670}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2816,7 +2816,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4741645138027863436}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 8.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2848,7 +2848,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4336849787679997961}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 4.0_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2879,7 +2879,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2966026592751682650}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2911,7 +2911,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8771081859038941881}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 1.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2943,7 +2943,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1116457153012100414}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 5.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2975,7 +2975,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7688308281300376097}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 10.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3007,7 +3007,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2819918481605533487}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 11 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3039,7 +3039,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8163491193064544877}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 5 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3070,7 +3070,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1810239398876829931}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 6.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3101,7 +3101,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3565667242901343566}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 2.0_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3132,7 +3132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1770044283036179678}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 5.0_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3163,7 +3163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2029930348854374435}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 3.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3195,7 +3195,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 139864345743488486}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3228,7 +3228,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2679072588860105003}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3260,7 +3260,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 780101692411665240}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 3.0_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3291,7 +3291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1441379773467677141}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 1 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3322,7 +3322,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4284066956303806740}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 11 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3353,7 +3353,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5679584941252322054}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 2.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3384,7 +3384,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5138435089822589036}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 8 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3416,7 +3416,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3779944642132618548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3448,7 +3448,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2869474841239347234}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 10.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3480,7 +3480,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7572335896773436265}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 2.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3512,7 +3512,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3905669037722297305}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 9.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3543,7 +3543,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1805155317586377572}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 12.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3576,7 +3576,8 @@ GameObject:
   - component: {fileID: 162269933845204239}
   - component: {fileID: 6992772153539575566}
   - component: {fileID: 2032246505895952982}
-  m_Layer: 0
+  - component: {fileID: 8608307450077763805}
+  m_Layer: 3
   m_Name: Droide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3591,10 +3592,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7180109326140100120}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 95.94171, y: 10.710001, z: 282.00992}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 9128403314797562599}
   - {fileID: 3885273092445176653}
@@ -3634,7 +3635,7 @@ Animator:
   m_GameObject: {fileID: 7180109326140100120}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c345e5f854bbf564ba38eba48825a9ab, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3645,6 +3646,27 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!65 &8608307450077763805
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7180109326140100120}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 11.0859585, y: 12.829973, z: 9.242534}
+  m_Center: {x: -0.0739554, y: 0.47529835, z: -0.39078763}
 --- !u!1 &7250914546734044724
 GameObject:
   m_ObjectHideFlags: 0
@@ -3654,7 +3676,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8399533034679543140}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 4 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3686,7 +3708,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8803841732822583098}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 3 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3718,7 +3740,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2171056127210236157}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 5.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3750,7 +3772,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8663815982669966561}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 4 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3782,7 +3804,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7415655047695368556}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3814,7 +3836,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 289137687503137749}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 2.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3846,7 +3868,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6532108919031130239}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 6 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3878,7 +3900,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5833144359172044884}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 5.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3910,7 +3932,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2715720903173791849}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 2.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3942,7 +3964,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5240040816105730815}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3974,7 +3996,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5491231413157189863}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4006,7 +4028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1446835527029331787}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4039,7 +4061,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9128403314797562599}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Droide RIG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4076,7 +4098,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4671079885509692950}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 1.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4107,7 +4129,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7563164599657263553}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4139,7 +4161,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7339436118289960261}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 10 IK_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4170,7 +4192,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1394533817516189043}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 11.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4202,7 +4224,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1376070745245896150}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 1.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4234,7 +4256,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4073129135035397595}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 3.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4266,7 +4288,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 362754251509767571}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 5.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4297,7 +4319,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2250692422609980914}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 9.0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4329,7 +4351,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1090984839362535889}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Pinza 1.0_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4360,7 +4382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7019498658241264644}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre IK General
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4403,7 +4425,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8333275161612696220}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 10.1_end
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4434,7 +4456,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2075293186051396434}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4466,7 +4488,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 533997396471756726}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cobre 9 IK
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4498,7 +4520,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4323455738895227291}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Brazo 5.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
